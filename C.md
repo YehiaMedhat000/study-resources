@@ -15,6 +15,8 @@
 * [C programming makefiles by (Barry Brown)](https://www.youtube.com/watch?v=GExnnTaBELk&t=233s&pp=ygUJbWFrZWZpbGVz)
 ---
 
+* [`alignof()` operator (article)](https://aticleworld.com/alignof-operator-in-c/)
+
 * [GDB quick tutoial by low level learning](https://www.youtube.com/watch?v=Dq8l1_-QgAc)
 
 * [`fork()` system call](https://www.youtube.com/watch?v=cex9XrZCU14)
